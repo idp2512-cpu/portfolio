@@ -7,7 +7,7 @@
 - Група: ІДП-31
 - Акаунт GitHub: idp2512-cpu
 
-#Використані технології
+Використані технології
 - HTML5 / CSS3
 - Git & GitHub Pages
 - Markdown
